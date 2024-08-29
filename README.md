@@ -9,12 +9,17 @@ A data mining project focused on classifying mushrooms as either edible or poiso
 Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 #### Development Environment:
 Jupyter Notebook
+#### Collaborators: 
+[Matteo Greco](https://github.com/GrecoMT)
 
 ### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024) ♕
 #### Description: 
 The code for an AI competition for the 2023/24 Artificial Intelligence university course in UNICAL, based on the game "Kings and Courtesans". The goal of the competition was to develop an effective heuristic strategy used within the alpha-beta search algorithm to guide the player's decisions. 
 #### Technologies Used: 
 Python
+#### Collaborators: 
+[Matteo Greco](https://github.com/GrecoMT)
+[Danilo Fortugno](https://github.com/4Tugno)
 
 ## Other Projects and Contributions
 work in progress
