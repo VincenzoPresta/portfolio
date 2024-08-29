@@ -27,7 +27,7 @@ work in progress
 
 
 ## Contact
-For further information or inquiries, please contact me:
+For further information or questions, please contact me:
 - **Email:** [vpresta9@gmail.com](mailto:your-email@example.com)
 - **LinkedIn:** [Vincenzo Presta](https://www.linkedin.com/in/vincenzo-presta-763113263/)
 
