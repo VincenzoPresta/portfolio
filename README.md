@@ -1,2 +1,2 @@
 # portfolio
-A collection of my significant projects and contributions. Browse through my main works, collaborations, and areas of technical expertise. For further details, you can contact me or review my other repositories.
+This repository serves as a record of my key projects and contributions. It includes details about significant works I have been involved in, both as a primary author and as a collaborator. 
