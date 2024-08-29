@@ -10,7 +10,7 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 #### Development Environment:
 Jupyter Notebook
 #### Collaborators: 
-[Matteo Greco](https://github.com/GrecoMT)
+- [Matteo Greco](https://github.com/GrecoMT)
 
 ### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024) ♕
 #### Description: 
@@ -18,8 +18,9 @@ The code for an AI competition for the 2023/24 Artificial Intelligence universit
 #### Technologies Used: 
 Python
 #### Collaborators: 
-[Matteo Greco](https://github.com/GrecoMT)
-[Danilo Fortugno](https://github.com/4Tugno)
+- [Danilo Fortugno](https://github.com/4Tugno)
+- [Matteo Greco](https://github.com/GrecoMT)
+
 
 ## Other Projects and Contributions
 work in progress
