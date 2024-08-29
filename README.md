@@ -16,3 +16,12 @@ The code for an AI competition for the 2023/24 Artificial Intelligence universit
 #### Technologies Used: 
 Python
 
+## Other Projects and Contributions
+work in progress
+
+
+## Contact
+For further information or inquiries, please contact me:
+- **Email:** [vpresta9@gmail.com](mailto:your-email@example.com)
+- **LinkedIn:** [Vincenzo Presta](https://www.linkedin.com/in/vincenzo-presta-763113263/)
+
