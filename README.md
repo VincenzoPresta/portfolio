@@ -31,9 +31,11 @@ Visual Studio Code
 #### Description: 
 The final project of the "Statistical Models & Statistical Learning" course. The project focuses on the exploration, preprocessing, and statistical modeling of the Airbnb NYC 2019 dataset.
 #### Technologies Used: 
-R
+R, tidyverse, corrplot, car, lmtest
+#### Data source: 
+[New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 #### Development Environment:
-R-studio
+RStudio
 #### Collaborators: 
 - [Alessandro Mancuso](https://github.com/nide29)
 
