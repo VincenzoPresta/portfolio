@@ -35,7 +35,7 @@ R, tidyverse, corrplot, car, lmtest
 #### Data source: 
 [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 #### Development Environment:
-RStudio
+[RStudio](https://posit.co/products/open-source/rstudio/)
 #### Collaborators: 
 - [Alessandro Mancuso](https://github.com/nide29)
 
