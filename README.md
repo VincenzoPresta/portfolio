@@ -10,7 +10,7 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 #### Data source: 
 [Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 #### Development Environment:
-Jupyter Notebook
+[Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/)
 #### Collaborators: 
 - [Matteo Greco](https://github.com/GrecoMT)
 
@@ -20,7 +20,7 @@ The code for an AI competition for the 2023/24 Artificial Intelligence universit
 #### Technologies Used: 
 Python
 #### Development Environment:
-Visual Studio Code
+[Visual Studio Code](https://code.visualstudio.com/)
 #### Collaborators: 
 - [Danilo Fortugno](https://github.com/4Tugno)
 - [Matteo Greco](https://github.com/GrecoMT)
