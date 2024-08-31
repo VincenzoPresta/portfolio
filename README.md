@@ -30,6 +30,9 @@ The final project of the "Statistical Models & Statistical Learning" course. The
 R
 #### Development Environment:
 R-studio
+#### Collaborators: 
+- [Alessandro Mancuso](https://github.com/nide29)
+
 
 ## Contact
 For further information or questions, please contact me:
