@@ -14,7 +14,7 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 #### Collaborators: 
 - [Matteo Greco](https://github.com/GrecoMT)
 
-### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024) ♕
+### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024)♟️
 #### Description: 
 The code for an AI competition for the 2023/24 Artificial Intelligence university course in UNICAL, based on the game "Kings and Courtesans". The goal of the competition was to develop an effective heuristic strategy used within the alpha-beta search algorithm to guide the player's decisions. 
 #### Technologies Used: 
@@ -27,7 +27,7 @@ Python
 
 
 ## Other Projects and Contributions
-### [progettoMSSL](https://github.com/nide29/progettoMSSL)
+### [progettoMSSL](https://github.com/nide29/progettoMSSL)📊
 #### Description: 
 The final project of the "Statistical Models & Statistical Learning" course. The project focuses on the exploration, preprocessing, and statistical modeling of the Airbnb NYC 2019 dataset.
 #### Technologies Used: 
