@@ -23,8 +23,13 @@ Python
 
 
 ## Other Projects and Contributions
-work in progress
-
+### [progettoMSSL](https://github.com/nide29/progettoMSSL)
+#### Description: 
+The final project of the "Statistical Models & Statistical Learning" course. The project focuses on the exploration, preprocessing, and statistical modeling of the Airbnb NYC 2019 dataset.
+#### Technologies Used: 
+R
+#### Development Environment:
+R-studio
 
 ## Contact
 For further information or questions, please contact me:
