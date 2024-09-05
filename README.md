@@ -10,6 +10,7 @@ A collection of my significant projects and contributions. Browse through my mai
 #### Collaborators: 
 - [Danilo Fortugno](https://github.com/4Tugno)
 - [Matteo Greco](https://github.com/GrecoMT)
+----------
 
 ### [Mushroom_Classification](https://github.com/VincenzoPresta/Mushroom_Classification) 🍄
 #### Description:
@@ -22,6 +23,7 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/)
 #### Collaborators: 
 - [Matteo Greco](https://github.com/GrecoMT)
+----------
 
 ## Other Projects and Contributions
 ### [progettoMSSL](https://github.com/nide29/progettoMSSL)📊
@@ -35,7 +37,8 @@ R, tidyverse, corrplot, car, lmtest
 [RStudio](https://posit.co/products/open-source/rstudio/)
 #### Collaborators: 
 - [Alessandro Mancuso](https://github.com/nide29)
-
+----------
+  
 ### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024)♟️
 #### Description: 
 The code for an AI competition for the 2023/24 Artificial Intelligence university course in UNICAL, based on the game "Kings and Courtesans". The goal of the competition was to develop an effective heuristic strategy used within the alpha-beta search algorithm to guide the player's decisions. 
@@ -46,7 +49,7 @@ Python
 #### Collaborators: 
 - [Danilo Fortugno](https://github.com/4Tugno)
 - [Matteo Greco](https://github.com/GrecoMT)
-
+----------
 
 ## Contact
 For further information or questions, please contact me:
