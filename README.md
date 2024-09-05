@@ -6,7 +6,7 @@ A collection of my significant projects and contributions. Browse through my mai
 #### Description: Final Project for the AI course focused on industrial robotics. It includes PDDL modeling of a robotic delivery system, custom search algorithms for classical planning, and temporal planning with integration into ROS2's PlanSys2 framework.
 #### Technologies Used: PDDL, Java, C++, Python, CMake 
 #### Development Environment:
-[Visual Studio Code](https://code.visualstudio.com/),[Sublime Text](https://www.sublimetext.com/)
+[Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/)
 #### Collaborators: 
 - [Danilo Fortugno](https://github.com/4Tugno)
 - [Matteo Greco](https://github.com/GrecoMT)
