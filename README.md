@@ -23,18 +23,6 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 #### Collaborators: 
 - [Matteo Greco](https://github.com/GrecoMT)
 
-### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024)♟️
-#### Description: 
-The code for an AI competition for the 2023/24 Artificial Intelligence university course in UNICAL, based on the game "Kings and Courtesans". The goal of the competition was to develop an effective heuristic strategy used within the alpha-beta search algorithm to guide the player's decisions. 
-#### Technologies Used: 
-Python
-#### Development Environment:
-[Visual Studio Code](https://code.visualstudio.com/)
-#### Collaborators: 
-- [Danilo Fortugno](https://github.com/4Tugno)
-- [Matteo Greco](https://github.com/GrecoMT)
-
-
 ## Other Projects and Contributions
 ### [progettoMSSL](https://github.com/nide29/progettoMSSL)📊
 #### Description: 
@@ -47,6 +35,17 @@ R, tidyverse, corrplot, car, lmtest
 [RStudio](https://posit.co/products/open-source/rstudio/)
 #### Collaborators: 
 - [Alessandro Mancuso](https://github.com/nide29)
+
+### [competizioneIA2024](https://github.com/VincenzoPresta/competizioneIA2024)♟️
+#### Description: 
+The code for an AI competition for the 2023/24 Artificial Intelligence university course in UNICAL, based on the game "Kings and Courtesans". The goal of the competition was to develop an effective heuristic strategy used within the alpha-beta search algorithm to guide the player's decisions. 
+#### Technologies Used: 
+Python
+#### Development Environment:
+[Visual Studio Code](https://code.visualstudio.com/)
+#### Collaborators: 
+- [Danilo Fortugno](https://github.com/4Tugno)
+- [Matteo Greco](https://github.com/GrecoMT)
 
 
 ## Contact
