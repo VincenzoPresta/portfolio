@@ -2,6 +2,15 @@
 A collection of my significant projects and contributions. Browse through my main works, collaborations, and areas of technical expertise. For further details, you can contact me or review my other repositories.
 
 ## Projects
+### [AI_Planning_Assignment](https://github.com/VincenzoPresta/AI_Planning_Assignment.git) 
+#### Description: Final Project for the AI course focused on industrial robotics. It includes PDDL modeling of a robotic delivery system, custom search algorithms for classical planning, and temporal planning with integration into ROS2's PlanSys2 framework.
+#### Technologies Used: PDDL, Java, C++, Python, CMake 
+#### Development Environment:
+[Visual Studio Code](https://code.visualstudio.com/),[Sublime Text](https://www.sublimetext.com/)
+#### Collaborators: 
+- [Danilo Fortugno](https://github.com/4Tugno)
+- [Matteo Greco](https://github.com/GrecoMT)
+
 ### [Mushroom_Classification](https://github.com/VincenzoPresta/Mushroom_Classification) 🍄
 #### Description:
 A data mining project focused on classifying mushrooms as either edible or poisonous using machine learning techniques. The project utilizes the "Mushrooms Classification" dataset to explore various aspects of data preprocessing, feature selection, and model training.   The goal is to develop a reliable classification model that can predict the edibility of mushrooms based on their features.
