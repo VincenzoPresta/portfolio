@@ -2,7 +2,21 @@
 A collection of my significant projects and contributions. Browse through my main works, collaborations, and areas of technical expertise. For further details, you can contact me or review my other repositories.
 
 ## Projects
-### [AI_Planning_Assignment](https://github.com/VincenzoPresta/AI_Planning_Assignment.git) 
+
+### [Soccer Ball Tracking](https://github.com/GrecoMT/Computer-Vision-Project) ⚽️
+#### Description:
+Final project for the Computer Vision course, focused on detecting and tracking a soccer ball using computer vision and deep learning techniques. The pipeline integrates visualization, object detection with the YOLO11 model, and post-processing methods to ensure accurate and reliable tracking. Key features include real-time ball detection with bounding boxes, trajectory visualization, and motion analysis. Post-processing involves error correction, minimization of false positives, and polynomial interpolation to ensure a smooth and consistent trajectory path. This project has potential applications in sports analytics, broadcasting systems, and athlete training.
+
+#### Technologies Used: YOLO11, Python, OpenCV, NumPy, Matplotlib
+
+#### Development Environment: [Jupyter Notebook](https://jupyter.org/), [Kaggle Notebook Editor](https://www.kaggle.com/)
+
+#### Collaborators:
+- [Matteo Greco](https://github.com/GrecoMT)
+----------
+
+
+### [AI_Planning_Assignment](https://github.com/VincenzoPresta/AI_Planning_Assignment.git) 🤖
 #### Description: Final Project for the AI course focused on industrial robotics. It includes PDDL modeling of a robotic delivery system, custom search algorithms for classical planning, and temporal planning with integration into ROS2's PlanSys2 framework.
 #### Technologies Used: PDDL, Java, C++, Python, CMake 
 #### Development Environment:
@@ -11,6 +25,7 @@ A collection of my significant projects and contributions. Browse through my mai
 - [Danilo Fortugno](https://github.com/4Tugno)
 - [Matteo Greco](https://github.com/GrecoMT)
 ----------
+
 
 ### [Mushroom_Classification](https://github.com/VincenzoPresta/Mushroom_Classification) 🍄
 #### Description:
