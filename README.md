@@ -9,8 +9,6 @@ Final project for the Computer Vision course, focused on detecting and tracking 
 
 #### Technologies Used: YOLO11, Python, OpenCV, NumPy, Matplotlib
 
-#### Data Source: [515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe)
-
 #### Development Environment: [Jupyter Notebook](https://jupyter.org/), [Kaggle Notebook Editor](https://www.kaggle.com/)
 
 #### Collaborators:
@@ -21,6 +19,7 @@ Final project for the Computer Vision course, focused on detecting and tracking 
 #### Description:
 A data-driven project focused on sentiment analysis of hotel reviews using Apache Spark and deep learning models. The dataset includes 515,000 reviews from Booking.com, and the system processes, analyzes, and visualizes insights using natural language processing (NLP) techniques. The project integrates deep learning models for sentiment classification, seasonal sentiment trends, and review summarization. Key features include geolocation-based analysis, anomaly detection, and an interactive dashboard for exploring trends and insights in hotel reputations.
 #### Technologies Used: PySpark, RoBERTa, VADER, DeepSeek, OpenStreetMap API, Streamlit, Matplotlib, Seaborn, Plotly
+#### Data Source: [515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe)
 #### Development Environment: Visual Studio Code
 #### Collaborators:
 - [Matteo Greco](https://github.com/GrecoMT)
