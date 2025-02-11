@@ -9,18 +9,28 @@ Final project for the Computer Vision course, focused on detecting and tracking 
 
 #### Technologies Used: YOLO11, Python, OpenCV, NumPy, Matplotlib
 
+#### Data Source: [515K Hotel Reviews Data in Europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe)
+
 #### Development Environment: [Jupyter Notebook](https://jupyter.org/), [Kaggle Notebook Editor](https://www.kaggle.com/)
 
 #### Collaborators:
 - [Matteo Greco](https://github.com/GrecoMT)
 ----------
 
+### [Big Data Project - Hotel Reviews](https://github.com/GrecoMT/Big-Data-Project) 🏨
+#### Description:
+A data-driven project focused on sentiment analysis of hotel reviews using Apache Spark and deep learning models. The dataset includes 515,000 reviews from Booking.com, and the system processes, analyzes, and visualizes insights using natural language processing (NLP) techniques. The project integrates deep learning models for sentiment classification, seasonal sentiment trends, and review summarization. Key features include geolocation-based analysis, anomaly detection, and an interactive dashboard for exploring trends and insights in hotel reputations.
+#### Technologies Used: PySpark, RoBERTa, VADER, DeepSeek, OpenStreetMap API, Streamlit, Matplotlib, Seaborn, Plotly
+#### Development Environment: Visual Studio Code
+#### Collaborators:
+- [Matteo Greco](https://github.com/GrecoMT)
+
+----------
 
 ### [AI_Planning_Assignment](https://github.com/VincenzoPresta/AI_Planning_Assignment.git) 🤖
 #### Description: Final Project for the AI course focused on industrial robotics. It includes PDDL modeling of a robotic delivery system, custom search algorithms for classical planning, and temporal planning with integration into ROS2's PlanSys2 framework.
 #### Technologies Used: PDDL, Java, C++, Python, CMake 
-#### Development Environment:
-[Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/)
+#### Development Environment: [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/)
 #### Collaborators: 
 - [Danilo Fortugno](https://github.com/4Tugno)
 - [Matteo Greco](https://github.com/GrecoMT)
@@ -32,10 +42,8 @@ Final project for the Computer Vision course, focused on detecting and tracking 
 A data mining project focused on classifying mushrooms as either edible or poisonous using machine learning techniques. The project utilizes the "Mushrooms Classification" dataset to explore various aspects of data preprocessing, feature selection, and model training.   The goal is to develop a reliable classification model that can predict the edibility of mushrooms based on their features.
 #### Technologies Used: 
 Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
-#### Data source: 
-[Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)
-#### Development Environment:
-[Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/)
+#### Data source: [Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)
+#### Development Environment:[Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/)
 #### Collaborators: 
 - [Matteo Greco](https://github.com/GrecoMT)
 ----------
@@ -46,10 +54,8 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 The final project of the "Statistical Models & Statistical Learning" course. The project focuses on the exploration, preprocessing, and statistical modeling of the Airbnb NYC 2019 dataset.
 #### Technologies Used: 
 R, tidyverse, corrplot, car, lmtest
-#### Data source: 
-[New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
-#### Development Environment:
-[RStudio](https://posit.co/products/open-source/rstudio/)
+#### Data source: [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+#### Development Environment:[RStudio](https://posit.co/products/open-source/rstudio/)
 #### Collaborators: 
 - [Alessandro Mancuso](https://github.com/nide29)
 ----------
