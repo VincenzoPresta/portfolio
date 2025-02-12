@@ -37,7 +37,7 @@ Final Project for the AI course focused on industrial robotics. It includes PDDL
 ----------
 
 
-### Data Mining: [Mushroom_Classification](https://github.com/VincenzoPresta/Mushroom_Classification) 🍄
+### Data Mining: [Mushroom Classification](https://github.com/VincenzoPresta/Mushroom_Classification) 🍄
 #### Description:
 A data mining project focused on classifying mushrooms as either edible or poisonous using machine learning techniques. The project utilizes the "Mushrooms Classification" dataset to explore various aspects of data preprocessing, feature selection, and model training.   The goal is to develop a reliable classification model that can predict the edibility of mushrooms based on their features.
 #### Technologies Used: 
@@ -49,7 +49,7 @@ Python, NumPy, Pandas, Scikit-learn, Keras, Matplotlib
 ----------
 
 ## Other Projects and Contributions
-### Statistical Learning: [progettoMSSL](https://github.com/nide29/progettoMSSL)📊
+### Statistical Learning: [MSSL Project](https://github.com/nide29/progettoMSSL)📊
 #### Description: 
 The final project of the "Statistical Models & Statistical Learning" course. The project focuses on the exploration, preprocessing, and statistical modeling of the Airbnb NYC 2019 dataset.
 #### Technologies Used: 
