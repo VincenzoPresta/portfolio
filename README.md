@@ -1,5 +1,5 @@
 # 👨🏻‍💻 portfolio 
-A collection of my significant projects and contributions. For further details, you can contact me or review my other repositories.
+A collection of my significant projects and contributions. 
 
 ## Projects
 
