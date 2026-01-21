@@ -3,14 +3,23 @@ A collection of my significant projects and contributions.
 
 ## Projects
 
+### Machine & Deep Learning: [ViT-AE-XAD – Vision Transformer for Explainable Anomaly Detection](https://github.com/VincenzoPresta/ViT-AE-XAD_ML-Project) 👁️
+#### Description:
+Academic Machine Learning project focused on integrating a Vision Transformer (ViT) encoder into the AE-XAD (AutoEncoder-based eXplainable Anomaly Detection) framework for industrial visual inspection. The project re-engineers the original AE-XAD pipeline by replacing the CNN-based encoder with a ViT while preserving the decoder, loss functions, and evaluation protocol. The analysis investigates how global, patch-based representations affect anomaly localization, explainability, and detection performance, highlighting the representational mismatch between Vision Transformers and pixel-level anomaly scoring.
+#### Technologies Used: PyTorch, Vision Transformer (ViT), Autoencoders, NumPy, Matplotli
+#### Data source: [MVTec AD](https://www.kaggle.com/datasets/ipythonx/mvtec-ad)
+#### Development Environment: Visual Studio Code, Kaggle Notebook Editor
+#### Original work: [AIDALab-DIMES/AE-XAD](https://github.com/AIDALab-DIMES/AE-XAD)
+
+---
+
+
 ### Computer Vision: [Soccer Ball Tracking](https://github.com/GrecoMT/Computer-Vision-Project) ⚽️
 #### Description:
 Final project for the Computer Vision course, focused on detecting and tracking a soccer ball using computer vision and deep learning techniques. The pipeline integrates visualization, object detection with the YOLO11 model, and post-processing methods to ensure accurate and reliable tracking. Key features include real-time ball detection with bounding boxes, trajectory visualization, and motion analysis. Post-processing involves error correction, minimization of false positives, and polynomial interpolation to ensure a smooth and consistent trajectory path. This project has potential applications in sports analytics, broadcasting systems, and athlete training.
 
 #### Technologies Used: YOLO11, Python, OpenCV, NumPy, Matplotlib
-
 #### Development Environment: [Jupyter Notebook](https://jupyter.org/), [Kaggle Notebook Editor](https://www.kaggle.com/)
-
 #### Collaborators:
 - [Matteo Greco](https://github.com/GrecoMT)
 ----------
