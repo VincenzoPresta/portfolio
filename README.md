@@ -13,7 +13,26 @@ Academic Machine Learning project focused on integrating a Vision Transformer (V
 
 ---
 
+### NLP & LLMS: [Influence Cascade Decoding (ICD)](https://github.com/VincenzoPresta/Influence-Cascade-Decoding) 🧠
 
+#### Description:
+
+Final project for the **University course “Information Retrieval e Social Media”**, focused on designing a novel decoding strategy for Large Language Models. The project introduces *Influence Cascade Decoding (ICD)*, a graph-based approach where token transitions are modeled as an influence network built from Monte Carlo simulations. The method integrates statistical (conditional probability) and semantic (PPMI) signals to weight edges, and applies an Independent Cascade diffusion process to estimate token influence. These signals are then used to perform logit boosting during decoding, guiding generation toward more informative and semantically coherent outputs. Experimental analysis shows improvements in informativeness while preserving coherence and factuality, with controlled trade-offs in diversity.
+
+#### Technologies Used:
+
+Python, PyTorch, HuggingFace Transformers, NetworkX, NumPy, Monte Carlo Simulation, SBERT
+
+#### Development Environment:
+
+Jupyter Notebook, Visual Studio Code
+
+#### Collaborators:
+
+* Ivan Prisco
+* [Matteo Greco](https://github.com/GrecoMT)
+
+---
 ### Computer Vision: [Soccer Ball Tracking](https://github.com/GrecoMT/Computer-Vision-Project) ⚽️
 #### Description:
 Final project for the Computer Vision course, focused on detecting and tracking a soccer ball using computer vision and deep learning techniques. The pipeline integrates visualization, object detection with the YOLO11 model, and post-processing methods to ensure accurate and reliable tracking. Key features include real-time ball detection with bounding boxes, trajectory visualization, and motion analysis. Post-processing involves error correction, minimization of false positives, and polynomial interpolation to ensure a smooth and consistent trajectory path. This project has potential applications in sports analytics, broadcasting systems, and athlete training.
